@@ -1,4 +1,10 @@
-# price_app
+# Qiuz App Using Vue3
+
+## Screenshots
+![image 1](https://github.com/mohammedterfa/Quiz-App-Vue3/blob/master/public/1.png?raw=true)
+![image 2](https://github.com/mohammedterfa/Quiz-App-Vue3/blob/master/public/2.png?raw=true)
+![image 3](https://github.com/mohammedterfa/Quiz-App-Vue3/blob/master/public/3.png?raw=true)
+![image 4](https://github.com/mohammedterfa/Quiz-App-Vue3/blob/master/public/4.png?raw=true)
 
 This template should help get you started developing with Vue 3 in Vite.
 
